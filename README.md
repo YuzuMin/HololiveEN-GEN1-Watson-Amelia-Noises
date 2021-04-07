@@ -19,9 +19,9 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.ameliano
 GNU General Public License V3
 
 # List of Noises
-* amelianoise1
-* amelianoise2
-* amelianoise3
+* amelianoise1 Skrrrra
+* amelianoise2 Ewwww!
+* amelianoise3 Do it again! x2
 * amelianoise4
 * amelianoise5
 * amelianoise6
