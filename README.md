@@ -19,14 +19,14 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.ameliano
 GNU General Public License V3
 
 # List of Noises
-* amelianoise1 Skrrrra
-* amelianoise2 Ewwww!
-* amelianoise3 Do it again! x2
-* amelianoise4 Oh God!
-* amelianoise5 I have boobs on my head
-* amelianoise6
-* amelianoise7
-* amelianoise8
+* amelianoise1  Skrrrra
+* amelianoise2  Ewwww!
+* amelianoise3  Do it again! x2
+* amelianoise4  Oh God!
+* amelianoise5  I have boobs on my head
+* amelianoise6  Brush you're teeth
+* amelianoise7  Stinky, you smell
+* amelianoise8  Goodnight!
 * amelianoise9
 * amelianoise10
 * amelianoise11
