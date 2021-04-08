@@ -29,8 +29,8 @@ GNU General Public License V3
 * amelianoise8  Goodnight!
 * amelianoise9  Oi
 * amelianoise10 *Amelia yawn*
-* amelianoise11
-* amelianoise12
+* amelianoise11 I'm a stripper
+* amelianoise12 I'm horny
 * amelianoise13
 * amelianoise14
 * amelianoise15
