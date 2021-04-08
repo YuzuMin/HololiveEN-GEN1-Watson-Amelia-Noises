@@ -22,8 +22,8 @@ GNU General Public License V3
 * amelianoise1 Skrrrra
 * amelianoise2 Ewwww!
 * amelianoise3 Do it again! x2
-* amelianoise4
-* amelianoise5
+* amelianoise4 Oh God!
+* amelianoise5 I have boobs on my head
 * amelianoise6
 * amelianoise7
 * amelianoise8
