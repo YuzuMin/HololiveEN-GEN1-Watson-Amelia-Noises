@@ -35,8 +35,8 @@ GNU General Public License V3
 * amelianoise14 I'm gonna do it
 * amelianoise15 Don't move
 * amelianoise16 I got a button
-* amelianoise17
-* amelianoise18
+* amelianoise17 Nothing beats a ground pound
+* amelianoise18 *Awkward laugh*
 * amelianoise19
 * amelianoise20
 * amelianoise21
