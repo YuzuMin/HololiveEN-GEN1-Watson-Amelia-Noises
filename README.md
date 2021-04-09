@@ -32,9 +32,9 @@ GNU General Public License V3
 * amelianoise11 I'm a stripper
 * amelianoise12 I'm horny
 * amelianoise13 REEEEEEEEEEEE
-* amelianoise14
-* amelianoise15
-* amelianoise16
+* amelianoise14 I'm gonna do it
+* amelianoise15 Don't move
+* amelianoise16 I got a button
 * amelianoise17
 * amelianoise18
 * amelianoise19
