@@ -37,9 +37,9 @@ GNU General Public License V3
 * amelianoise16 I got a button
 * amelianoise17 Nothing beats a ground pound
 * amelianoise18 *Awkward laugh*
-* amelianoise19 Amelia's Sneeze 1
-* amelianoise20
-* amelianoise21
+* amelianoise19 Amelia's Sneeze
+* amelianoise20 Amelia's Question
+* amelianoise21 
 * amelianoise22
 * amelianoise23
 * amelianoise24
