@@ -43,11 +43,11 @@ GNU General Public License V3
 * amelianoise22 Gross
 * amelianoise23 Don't eat the pudding now
 * amelianoise24 *Amelia's weird question 2*
-* amelianoise25
-* amelianoise26
-* amelianoise27
-* amelianoise28
-* amelianoise29
+* amelianoise25 Ummm time to eat!
+* amelianoise26 Ahhhh Nom~
+* amelianoise27 Ummmmmmmmmmmmmmm
+* amelianoise28 It's soo sweet!
+* amelianoise29 Umai umai
 * amelianoise30
 * amelianoise31
 * amelianoise32
