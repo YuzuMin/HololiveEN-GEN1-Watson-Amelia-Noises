@@ -38,11 +38,11 @@ GNU General Public License V3
 * amelianoise17 Nothing beats a ground pound
 * amelianoise18 *Awkward laugh*
 * amelianoise19 Amelia's Sneeze
-* amelianoise20 Amelia's Question
+* amelianoise20 *Amelia's weird question 1*
 * amelianoise21 I don't think I can finish it
-* amelianoise22
-* amelianoise23
-* amelianoise24
+* amelianoise22 Gross
+* amelianoise23 Don't eat the pudding now
+* amelianoise24 *Amelia's weird question 2*
 * amelianoise25
 * amelianoise26
 * amelianoise27
