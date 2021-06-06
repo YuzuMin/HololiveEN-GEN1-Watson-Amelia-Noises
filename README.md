@@ -24,7 +24,7 @@ GNU General Public License V3
 * amelianoise3  Do it again! x2
 * amelianoise4  Oh God!
 * amelianoise5  I have boobs on my head
-* amelianoise6  Brush you're teeth
+* amelianoise6  Brush your teeth
 * amelianoise7  Stinky, you smell
 * amelianoise8  Goodnight!
 * amelianoise9  Oi
