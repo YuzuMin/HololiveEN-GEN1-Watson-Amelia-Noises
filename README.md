@@ -11,7 +11,7 @@ alt="Get it on Google Play"
 height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.amelianoises)
 
 # Features
-* 50 Noises
+* 40 Noises
 * Alarm Clock
 * Google Drive Download
 
@@ -59,13 +59,3 @@ GNU General Public License V3
 * amelianoise38 *Mating noise 3*
 * amelianoise39 *Mating noise 4*
 * amelianoise40 *Mating noise 5*
-* amelianoise41 *Mating noise 6*
-* amelianoise42
-* amelianoise43
-* amelianoise44
-* amelianoise45
-* amelianoise46
-* amelianoise47
-* amelianoise48
-* amelianoise49
-* amelianoise50
