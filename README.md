@@ -59,7 +59,7 @@ GNU General Public License V3
 * amelianoise38 *Mating noise 3*
 * amelianoise39 *Mating noise 4*
 * amelianoise40 *Mating noise 5*
-* amelianoise41
+* amelianoise41 *Mating noise 6*
 * amelianoise42
 * amelianoise43
 * amelianoise44
