@@ -54,9 +54,9 @@ GNU General Public License V3
 * amelianoise33 Not until we hold hands teammates
 * amelianoise34 *Hic*
 * amelianoise35 *Gremlin noise*
-* amelianoise36
-* amelianoise37
-* amelianoise38
+* amelianoise36 *Mating noise 1*
+* amelianoise37 *Mating noise 2*
+* amelianoise38 *Mating noise 3*
 * amelianoise39
 * amelianoise40
 * amelianoise41
