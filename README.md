@@ -48,10 +48,10 @@ GNU General Public License V3
 * amelianoise27 Ummmmmmmmmmmmmmm
 * amelianoise28 It's soo sweet!
 * amelianoise29 Umai umai
-* amelianoise30
-* amelianoise31
-* amelianoise32
-* amelianoise33
+* amelianoise30 It hurts my teeth
+* amelianoise31 NO!
+* amelianoise32 No marriage
+* amelianoise33 Not until we hold hands teammates
 * amelianoise34
 * amelianoise35
 * amelianoise36
