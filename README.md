@@ -52,8 +52,8 @@ GNU General Public License V3
 * amelianoise31 NO!
 * amelianoise32 No marriage
 * amelianoise33 Not until we hold hands teammates
-* amelianoise34
-* amelianoise35
+* amelianoise34 *Hic*
+* amelianoise35 *Gremlin noise*
 * amelianoise36
 * amelianoise37
 * amelianoise38
