@@ -924,6 +924,15 @@ public class ClickerSettings extends AppCompatActivity {
             }
         });
 
+        SoundSettingContainer=findViewById(R.id.Sound_Settings);
+        //SoundSettingContainer.setVisibility(GONE);
+        if(SoundSettings.getBoolean("valueN",false)){
+            SoundSettingContainer.setVisibility(VISIBLE);
+        }else{
+            SoundSettingContainer.setVisibility(GONE);
+        }
+
+
         // for switch 0 to activate
         switch0=findViewById(R.id.switch0);
         SoundSettings =getSharedPreferences("save0",MODE_PRIVATE);
@@ -988,13 +997,7 @@ public class ClickerSettings extends AppCompatActivity {
         });
 
 
-        SoundSettingContainer=findViewById(R.id.Sound_Settings);
-        SoundSettingContainer.setVisibility(GONE);
-        if(SoundSettings.getBoolean("valueN",false)){
-            SoundSettingContainer.setVisibility(VISIBLE);
-        }else{
-            SoundSettingContainer.setVisibility(GONE);
-        }
+
 
 
         // for switch 3 to activate
