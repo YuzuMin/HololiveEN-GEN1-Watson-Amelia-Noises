@@ -35,10 +35,10 @@ public class Reader extends AppCompatActivity {
                         "Simply follow the on screen instructions and click on the character.\n" +
                         "\n" +
                         "2. AUTOCLICK\n" +
-                        "Tap the the words \"Press Calliope\" and the text will become \"Sit Back & Chill\". This will allow the app to autoplay random noises continously\n" +
+                        "Tap the the words \"Press Amelia\" and the text will become \"Sit Back & Chill\". This will allow the app to autoplay random noises continously\n" +
                         "\n" +
                         "3. Download Audio\n" +
-                        "Go to the App Menu and you will see a button that says Downloads, this would bring you to a Google Drive Folder with 3 subfolder, Audio, Image and Video. You can find the audio clips and images used in this app in those folders\n" +
+                        "Go to the App Menu and you will see a button that says Downloads, this would bring you to a Google Drive Folder with 3 subfolders, Audio, Image and Video. You can find the audio clips and images used in this app in those folders\n" +
                         "\n" +
                         "4. DEVELOPER MODE\n" +
                         "To unlock Developer mode, Goto the App Menu tap Version at least 7 times, developer mode merely unlocks unstable features that are currently in development\n" +
