@@ -98,6 +98,18 @@ public class MainActivity extends AppCompatActivity implements Count.CountListen
     CardView SoundBTN48;
     CardView SoundBTN49;
     CardView SoundBTN50;
+    CardView SoundBTN51;
+    CardView SoundBTN52;
+    CardView SoundBTN53;
+    CardView SoundBTN54;
+    CardView SoundBTN55;
+    CardView SoundBTN56;
+    CardView SoundBTN57;
+    CardView SoundBTN58;
+    CardView SoundBTN59;
+    CardView SoundBTN60;
+
+
 
     List<Integer> listofsounds;
     int charavalue;
