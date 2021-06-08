@@ -94,7 +94,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text="Mori Calliope Ch."
+                                    android:text="Watson Amelia Ch."
                                     android:textAlignment="center"
                                     android:textColor="@color/darkporcelain"
                                     android:textSize="11sp" />
@@ -103,7 +103,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text="#1 Chad Dad"
+                                    android:text="#1 Gremlin"
                                     android:textAlignment="center"
                                     android:textColor="@color/porcelain" />
                             </LinearLayout>
