@@ -15,6 +15,6 @@
     <color name="darkblvck">#121212</color>
     <color name="porcelain">#F3F3F3</color>
     <color name="darkporcelain">#ACACAC</color>
-    <color name="button">#FF5382</color>
+    <color name="button">#FFC107</color>
     <color name="clearbutton">#A9FF5382</color>
 </resources>
