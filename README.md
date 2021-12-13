@@ -12,11 +12,10 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.ameliano
 
 # Features
 * 60 Noises
-* Alarm Clock
-* Google Drive Download
+* GitHub Download
 
 # License
-GNU General Public License V3
+MIT License
 
 # List of Noises
 * amelianoise1  Skrrrra
